@@ -13,9 +13,9 @@
 - 2019-01-07 [Mysql学习之索引](http://friday-go.cc/Mysql%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%B4%A2%E5%BC%95)
 - 2018-11-05 [Docker 入门学习](http://friday-go.cc/Docker%E5%85%A5%E9%97%A8)
 
-    [>>> More blog posts](https://friday-go.cc/)
-    
-    ## Statistics
-    ![Stats](https://github-readme-stats.vercel.app/api?username=Neroxiezi&show_icons=true&theme=radical)
-    ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Neroxiezi&hide=ipynb,html&layout=compact&show_icons=true&theme=radical)
-    
+[>>> More blog posts](https://friday-go.cc/)
+
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=Neroxiezi&show_icons=true&theme=radical)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Neroxiezi&hide=ipynb,html&layout=compact&show_icons=true&theme=radical)
+
