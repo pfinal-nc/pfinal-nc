@@ -16,6 +16,6 @@
 [>>> More blog posts](https://friday-go.icu/)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=Neroxiezi&show_icons=true&theme=radical)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Neroxiezi&hide=ipynb,html&layout=compact&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neroxiezi&show_icons=true&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neroxiezi&hide=ipynb,html&layout=compact&show_icons=true&theme=radical">
 
