@@ -6,7 +6,7 @@
  | |    | |    | | | | | (_| | |
  |_|    |_|    |_|_| |_|\__,_|_| 南丞
 ```
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Neroxiezi&theme=flat">
 </p>
 
