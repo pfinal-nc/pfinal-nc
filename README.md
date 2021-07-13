@@ -23,6 +23,9 @@
 ![langs](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white)
 ![lamgs](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black)
 ![lamgs](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=blue)
+![lamgs](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=blue)
+![lamgs](https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=blue)
+
 
 ## Statistics
 
