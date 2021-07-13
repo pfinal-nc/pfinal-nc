@@ -10,6 +10,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Neroxiezi&theme=flat">
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-Neroxiezi&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/JustNikhill.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JustNikhill?tab=followers)
 
 
 <h3 align="left">Connect with me:</h3>
