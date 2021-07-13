@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- [Blog](https://friday-go.icu/)
+<a href="https://friday-go.icu/">南丞嘚吧嘚</a>
 
 ## Statistics
 
