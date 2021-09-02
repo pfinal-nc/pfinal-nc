@@ -69,7 +69,7 @@
   </p>
   <p>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&no-bg=true&no-frame=true">
 </p> 
   </p>
 
