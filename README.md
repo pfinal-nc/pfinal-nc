@@ -10,9 +10,6 @@
   Welcome to PFinal-nc profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<!-- <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&theme=flat">
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-pfinal-nc&color=brightgreen" />
@@ -62,9 +59,17 @@
 
 
 
-## Statistics
+## 📊 Github stats
 
+<p>
 <a href="https://github.com/pfinal-nc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=radical">
 </a>
+  </p>
+  <p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&no-bg=true">
+</p> 
+  </p>
+
