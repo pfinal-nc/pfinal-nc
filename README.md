@@ -49,13 +49,17 @@
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-博客: <a href="https://friday-go.icu/" style="color:green">博客-南丞嘚吧嘚</a>
-<br/>
-邮箱: lampxiezi@163.com
+### 👨‍ Connect with me
 
-知乎:  <a href="https://www.zhihu.com/people/NcFial">PFinal南丞</a>
+<p>
+  
+  博客: <a href="https://friday-go.icu/" style="color:green">南丞嘚吧嘚</a>
 
+  邮箱: lampxiezi@163.com
+
+  知乎:  <a href="https://www.zhihu.com/people/NcFial">PFinal南丞</a>
+  
+<p>
 
 
 
