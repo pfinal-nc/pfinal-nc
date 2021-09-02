@@ -27,7 +27,7 @@
 <a href="https://github.com/search?l=css3&q=css3"><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?l=JavaScript&q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?l=Mysql&q=Mysql"><img src="https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=blue"></a>
-<a href="https://github.com/search?l=go&q=go"><img src="https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=blue"></a>
+<a href="https://github.com/search?l=go&q=go"><img src="https://img.shields.io/badge/Go-E34F26?style=for-the-badge&logo=go&logoColor=blue"></a>
 <a href="https://github.com/search?l=html&q=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?l=sql&q=sql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
