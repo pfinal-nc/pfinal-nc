@@ -22,10 +22,10 @@
 ### 🛠️ SKILLS 
 
 ### 👨‍💻 Programming languages
-<a href="https://github.com/search?l=PHP&q=pfinal-nc&type=users"><img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=blue"></a>
-<a href="https://github.com/search?l=Python&q=python"><img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
-<a href="https://github.com/search?l=css3&q=css3"><img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?l=JavaScript&q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?l=PHP&q=pfinal-nc&type=users"><img src="https://img.shields.io/badge/PHP-68217A.svg?logo=php&logoColor=white"></a>
+<a href="https://github.com/search?l=Python&q=python"><img src="https://img.shields.io/badge/Python-E39842.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?l=css3&q=css3"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?l=JavaScript&q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-E39842.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?l=Mysql&q=Mysql"><img src="https://img.shields.io/badge/Mysql-15A6C4.svg?logo=Mysql&logoColor=blue"></a>
 <a href="https://github.com/search?l=go&q=go"><img src="https://img.shields.io/badge/Go-025E8C.svg?logo=go&logoColor=white"></a>
 <a href="https://github.com/search?l=html&q=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
