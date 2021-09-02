@@ -22,10 +22,11 @@
 ### 🛠️ SKILLS 
 
 ### 👨‍💻 Programming languages
-<a href="https://github.com/search?q=user%3pfinalNc+language%3Python"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
+<a href="https://github.com/search?l=PHP&q=pfinal-nc&type=users"><img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=blue"/></a>
+<a href="https://github.com/search?l=Python&q=python&type=users"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
 ![langs](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white)
 ![lamgs](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black)
-![lamgs](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=blue)
+
 ![lamgs](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=blue)
 ![lamgs](https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=blue)
 
