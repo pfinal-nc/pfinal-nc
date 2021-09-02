@@ -14,9 +14,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&theme=flat">
 </p> -->
 
-<p align="left">
-![](https://komarev.com/ghpvc/?username=your-github-pfinal-nc&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/pfinal-nc.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pfinal-nc?tab=followers)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-pfinal-nc&color=brightgreen" />
+  <a href ="https://github.com/pfinal-nc?tab=followers"><img src="https://img.shields.io/github/followers/pfinal-nc.svg?style=social&label=Follow&maxAge=2592000"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
