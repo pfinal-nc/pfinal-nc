@@ -10,13 +10,14 @@
   Welcome to PFinal-nc profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&theme=flat">
-</p>
+</p> -->
 
+<p align="left">
 ![](https://komarev.com/ghpvc/?username=your-github-pfinal-nc&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/pfinal-nc.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pfinal-nc?tab=followers)
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 博客: <a href="https://friday-go.icu/" style="color:green">博客-南丞嘚吧嘚</a>
