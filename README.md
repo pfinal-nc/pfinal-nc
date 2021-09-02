@@ -23,13 +23,12 @@
 
 ### 👨‍💻 Programming languages
 <a href="https://github.com/search?l=PHP&q=pfinal-nc&type=users"><img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=blue"/></a>
-<a href="https://github.com/search?l=Python&q=python&type=users"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
-![langs](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white)
-![lamgs](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://github.com/search?l=Python&q=python"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
 
-![lamgs](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=blue)
-![lamgs](https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=blue)
-
+<a href="https://github.com/search?l=css3&q=css3"> <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?l=JavaScript&q=JavaScript"> <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?l=Mysql&q=Mysql"> <img src="https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=blue"></a>
+<a href="https://github.com/search?l=go&q=go"> <img src="https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=blue"></a>
 
 
 <h3 align="left">Connect with me:</h3>
