@@ -31,6 +31,16 @@
 <a href="https://github.com/search?l=html&q=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?l=sql&q=sql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
+### 🧰 Frameworks and libraries
+
+<p>
+   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-CB2029?logo=sonarlint&logoColor=white"></a>
+   <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+   <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 博客: <a href="https://friday-go.icu/" style="color:green">博客-南丞嘚吧嘚</a>
 <br/>
