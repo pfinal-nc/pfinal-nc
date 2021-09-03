@@ -52,12 +52,12 @@
 ## 📊 Github stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula)](https://github.com/pmlic/PHP-ML-study.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc)](https://github.com/pfinalclub/pfinal-array)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula)](https://github.com/pfinalclub/pfinal-array)
 
 <p>
 <a href="https://github.com/pfinal-nc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula">
 </a>
   </p>
   <p>
