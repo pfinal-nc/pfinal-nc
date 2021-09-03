@@ -52,10 +52,10 @@
 ## 📊 Github stats
 <p>
   <a href="https://github.com/pmlic/PHP-ML-study" style="float:left;font-size:12px">
-    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula">
+    <img height="180em" width="20rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula">
   </a>
   <a href="https://github.com/pfinalclub/pfinal-array" style="float:left;font-size:12px">
-    <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula">
+    <img height="180em" width="20rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula">
   </a>
 </p>
 <p>
