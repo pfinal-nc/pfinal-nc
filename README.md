@@ -50,10 +50,14 @@
 </p>
 
 ## 📊 Github stats
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula)](https://github.com/pmlic/PHP-ML-study.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula)](https://github.com/pfinalclub/pfinal-array)
-
+<p>
+  <a href="https://github.com/pmlic/PHP-ML-study">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula">
+  </a>
+  <a href="https://github.com/pfinalclub/pfinal-array">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula">
+  </a>
+</p>
 <p>
 <a href="https://github.com/pfinal-nc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&theme=dracula">
