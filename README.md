@@ -51,7 +51,7 @@
 
 ## 📊 Github stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pfinal-nc&repo=PHP-ML-study)](https://github.com/pmlic/PHP-ML-study.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study)](https://github.com/pmlic/PHP-ML-study.git)
 
 <p>
 <a href="https://github.com/pfinal-nc">
