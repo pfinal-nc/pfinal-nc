@@ -27,6 +27,7 @@
 <a href="https://github.com/search?l=go&q=go"><img src="https://img.shields.io/badge/Go-025E8C.svg?logo=go&logoColor=white"></a>
 <a href="https://github.com/search?l=html&q=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?l=sql&q=sql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?l=python&q=python"><img alt="Python" src="https://img.shields.io/badge/Python-025E8C.svg?logo=Python&logoColor=white"></a>
 
 ### 🧰 Frameworks and libraries
 
