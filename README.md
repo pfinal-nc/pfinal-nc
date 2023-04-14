@@ -50,21 +50,7 @@
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
-<p>
-  <a href="https://github.com/pmlic/PHP-ML-study" style="float:left;font-size:12px">
-    <img height="180em" width="350rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pmlic&repo=PHP-ML-study&show_owner=pfinal-nc&theme=dracula">
-  </a>
-  <a href="https://github.com/pfinalclub/pfinal-array" style="float:left;font-size:12px">
-    <img height="180em" width="350rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pfinalclub&repo=pfinal-array&show_owner=pfinal-nc&theme=dracula">
-  </a>
-</p>
-<p>
-<a href="https://github.com/pfinal-nc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula">
-</a>
-  </p>
+## 📊 Github
   <p>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=pfinal-nc&no-bg=true&no-frame=true">
