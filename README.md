@@ -52,7 +52,6 @@
 
 ## 📊 Github<p>
 <a href="https://github.com/pfinal-nc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfinal-nc&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula">
 </a>
   </p>
