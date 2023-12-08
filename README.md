@@ -18,6 +18,9 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+<hr>
+
 #### 👨‍💻 Find me
 
 [![](https://img.shields.io/badge/zhihu-E6162D?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/NcFial)
