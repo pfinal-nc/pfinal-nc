@@ -60,6 +60,6 @@
 
 
 <a href="https://github.com/pfinal-nc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula&locale=cn">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula&locale=cn">
 </a>
 
