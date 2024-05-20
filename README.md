@@ -6,8 +6,6 @@
  | |    | |    | | | | | (_| | |
  |_|    |_|    |_|_| |_|\__,_|_| 南丞
 ```
-<img src="./header_1.png">
-
 <h3 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
