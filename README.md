@@ -11,9 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <hr>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/pfinal-nc/pfinal-nc/output/github-contribution-grid-snake.svg)
-
+As a senior software engineer with more than 10 years of professional experience, I have a rich understanding of back-end PHP and Python development, and have been exposed to various projects. I have used monolithic architecture, microservice architecture and serverless architecture. I participated in and opened open source myself. some works
 <hr>
 
 #### 👨‍💻 Find me
