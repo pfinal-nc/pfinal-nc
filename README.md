@@ -12,8 +12,11 @@
 </h3>
 <hr>
 As a senior software engineer with more than 10 years of professional experience, 
+
 I have a rich understanding of back-end PHP and Python development, and have been exposed to various projects. 
+
 I have used monolithic architecture, microservice architecture and serverless architecture. 
+
 I participated in and opened open source myself. some works
 <hr>
 
