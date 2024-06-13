@@ -64,6 +64,8 @@ I participated in and opened open source myself. some works
 
 ### My Plugins
 
-<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/15814"></iframe>
-
-<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/21997"></iframe>
+<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
+<script>
+  // Please, replace #yourelement with a real element id on your webpage
+  MarketplaceWidget.setupMarketplaceWidget('card', 21997, "#yourelement");
+</script>
