@@ -62,10 +62,4 @@ I participated in and opened open source myself. some works
 
 <hr>
 
-### My Plugins
 
-<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
-<script>
-  // Please, replace #yourelement with a real element id on your webpage
-  MarketplaceWidget.setupMarketplaceWidget('card', 21997, "#yourelement");
-</script>
