@@ -1,18 +1,38 @@
-# PFINAL南丞 (PFinal Community)
+<!-- <div align="center">
+  <img src="header_1.png" alt="Header" width="100%">
+</div> -->
 
-![Header](header_1.png)
+# 嗨，我是 PFINAL南丞 👋
 
 > 高山仰止,景行行制,虽不能至,心向往之
 
 拥有超过 10 年专业经验的高级软件工程师，专注于后端开发和系统架构设计。热衷于开源技术分享和开发者工具的创造。
 
-## 🌟 技术专长
+<p align="center">
+  <a href="https://friday-go.icu"><img src="https://img.shields.io/badge/website-friday--go.icu-blue" alt="Website"></a>
+  <a href="https://x.com/NPfinal"><img src="https://img.shields.io/badge/twitter-@NPfinal-blue" alt="Twitter"></a>
+  <a href="mailto:lampxiezi@163.com"><img src="https://img.shields.io/badge/email-lampxiezi@163.com-red" alt="Email"></a>
+</p>
 
-- **后端开发**：PHP, Python, Go
-- **架构设计**：单体应用, 微服务, 无服务器架构
-- **桌面应用**：使用 Go Wails 框架构建跨平台应用
-- **数据科学**：在 PHP 环境中应用机器学习算法
-- **开发工具**：创建实用的开发者工具提升工作效率
+## 🧠 技术栈
+
+### 后端开发
+- **PHP**: Laravel, ThinkPHP 等主流框架
+- **Python**: Django, Flask 等 Web 框架
+- **Go**: Web 开发、微服务、桌面应用 (Wails)
+
+### 前端开发
+- **JavaScript/TypeScript**: Vue.js, React 等现代框架
+- **HTML/CSS**: 响应式设计，移动端适配
+
+### 架构设计
+- **单体应用**: 传统 Web 应用架构
+- **微服务**: 分布式系统设计
+- **无服务器**: Serverless 架构实践
+
+### 数据科学与工具
+- **机器学习**: PHP-ML 库的应用
+- **开发工具**: 实用的开发者工具和脚本
 
 ## 🚀 代表性项目
 
@@ -34,23 +54,15 @@ Linux 下连接远程服务器的工具，简化服务器管理流程，支持�
 - **累计 Star**：721⭐
 - **GitHub 关注者**：84 人
 
-## 🌐 相关链接
-
-- 🌐 个人网站：[https://friday-go.icu](https://friday-go.icu)
-- 🎮 游戏站点：[https://game.friday-go.icu/](https://game.friday-go.icu/)
-- 🔍 导航站点：[https://nav.friday-go.icu/](https://nav.friday-go.icu/)
-- 🐦 Twitter：[@NPfinal](https://x.com/NPfinal)
-
 ## 📬 联系方式
 
 欢迎通过以下方式与我交流技术问题或合作机会：
 
-- 📧 邮箱：[lampxiezi@163.com](mailto:lampxiezi@163.com)
+- 🌐 个人网站：[https://friday-go.icu](https://friday-go.icu)
 - 🐦 Twitter：[@NPfinal](https://x.com/NPfinal)
+- 📧 邮箱：[lampxiezi@163.com](mailto:lampxiezi@163.com)
 - 💬 GitHub Issues：在相关项目中提交 issue
 
 ---
 
 *"代码改变世界，开源成就未来"*
-
-![Footer](header_1.png)

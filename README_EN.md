@@ -1,18 +1,38 @@
-# PFINAL Nan Cheng (PFinal Community)
+<!-- <div align="center">
+  <img src="header_1.png" alt="Header" width="100%">
+</div> -->
 
-![Header](header_1.png)
+# Hi, I'm PFINAL Nan Cheng 👋
 
 > Admire the lofty mountains, follow the great examples; though we may not reach them, our hearts yearn for them.
 
 Senior software engineer with over 10 years of professional experience, focusing on backend development and system architecture design. Passionate about open-source technology sharing and developer tool creation.
 
-## 🌟 Technical Expertise
+<p align="center">
+  <a href="https://friday-go.icu"><img src="https://img.shields.io/badge/website-friday--go.icu-blue" alt="Website"></a>
+  <a href="https://x.com/NPfinal"><img src="https://img.shields.io/badge/twitter-@NPfinal-blue" alt="Twitter"></a>
+  <a href="mailto:lampxiezi@163.com"><img src="https://img.shields.io/badge/email-lampxiezi@163.com-red" alt="Email"></a>
+</p>
 
-- **Backend Development**: PHP, Python, Go
-- **Architecture Design**: Monolithic, Microservices, Serverless
-- **Desktop Applications**: Cross-platform apps with Go Wails framework
-- **Data Science**: Applying machine learning algorithms in PHP environment
-- **Developer Tools**: Creating practical tools to improve work efficiency
+## 🧠 Technical Stack
+
+### Backend Development
+- **PHP**: Laravel, ThinkPHP and other mainstream frameworks
+- **Python**: Django, Flask and other web frameworks
+- **Go**: Web development, microservices, desktop applications (Wails)
+
+### Frontend Development
+- **JavaScript/TypeScript**: Modern frameworks like Vue.js, React
+- **HTML/CSS**: Responsive design, mobile adaptation
+
+### Architecture Design
+- **Monolithic Applications**: Traditional web application architecture
+- **Microservices**: Distributed system design
+- **Serverless**: Serverless architecture practices
+
+### Data Science & Tools
+- **Machine Learning**: Applications of PHP-ML library
+- **Development Tools**: Practical developer tools and scripts
 
 ## 🚀 Featured Projects
 
@@ -34,23 +54,15 @@ Tool for connecting to remote servers under Linux, simplifying server management
 - **Total Stars**: 721⭐
 - **GitHub Followers**: 84
 
-## 🌐 Related Links
-
-- 🌐 Personal Website: [https://friday-go.icu](https://friday-go.icu)
-- 🎮 Game Site: [https://game.friday-go.icu/](https://game.friday-go.icu/)
-- 🔍 Navigation Site: [https://nav.friday-go.icu/](https://nav.friday-go.icu/)
-- 🐦 Twitter: [@NPfinal](https://x.com/NPfinal)
-
 ## 📬 Contact
 
 Feel free to reach out through the following channels for technical discussions or collaboration opportunities:
 
-- 📧 Email: [lampxiezi@163.com](mailto:lampxiezi@163.com)
+- 🌐 Personal Website: [https://friday-go.icu](https://friday-go.icu)
 - 🐦 Twitter: [@NPfinal](https://x.com/NPfinal)
+- 📧 Email: [lampxiezi@163.com](mailto:lampxiezi@163.com)
 - 💬 GitHub Issues: Submit issues in relevant projects
 
 ---
 
 *"Code changes the world, open source achieves the future"*
-
-![Footer](header_1.png)
