@@ -1,61 +1,56 @@
-```shell
-  _____  ______ _             _ 
- |  __ \|  ____(_)           | |
- | |__) | |__   _ _ __   __ _| |
- |  ___/|  __| | | '_ \ / _` | |
- | |    | |    | | | | | (_| | |
- |_|    |_|    |_|_| |_|\__,_|_| 南丞
-```
-<img src="./header_1.png">
+# PFINAL南丞 (PFinal Community)
 
-<h3 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<hr>
+![Header](header_1.png)
 
-#### 👨‍💻 Find me
+> 高山仰止,景行行制,虽不能至,心向往之
 
-[![](https://img.shields.io/badge/zhihu-E6162D?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/NcFial)
-[![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=github&logoColor=white)](https://friday-go.icu)
-[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lampxiezi@163.com)
-[![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=1370288056&site=qq&menu=yes)
-![](https://img.shields.io/badge/lovesnad-07C160?style=flat-square&logo=wechat&logoColor=white)
+拥有超过 10 年专业经验的高级软件工程师，专注于后端开发和系统架构设计。热衷于开源技术分享和开发者工具的创造。
 
+## 🌟 技术专长
 
-### 👨‍💻 Programming languages
-<a href="https://github.com/search?l=PHP&q=pfinal-nc&type=users"><img src="https://img.shields.io/badge/PHP-68217A.svg?style=flat-square&logo=php&logoColor=white"></a>
-<a href="https://github.com/search?l=Python&q=python"><img src="https://img.shields.io/badge/Python-E39842.svg?style=flat-square&logo=python&logoColor=white"></a>
-<a href="https://github.com/search?l=css3&q=css3"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?l=JavaScript&q=JavaScript"><img src="https://img.shields.io/badge/JavaScript-E39842.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?l=Mysql&q=Mysql"><img src="https://img.shields.io/badge/Mysql-15A6C4.svg?style=flat-square&logo=Mysql&logoColor=blue"></a>
-<a href="https://github.com/search?l=go&q=go"><img src="https://img.shields.io/badge/Go-025E8C.svg?style=flat-square&logo=go&logoColor=white"></a>
-<a href="https://github.com/search?l=html&q=html"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?l=sql&q=sql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
+- **后端开发**：PHP, Python, Go
+- **架构设计**：单体应用, 微服务, 无服务器架构
+- **桌面应用**：使用 Go Wails 框架构建跨平台应用
+- **数据科学**：在 PHP 环境中应用机器学习算法
+- **开发工具**：创建实用的开发者工具提升工作效率
 
-### 🧰 Frameworks and libraries
+## 🔧 明星项目
 
-<p>
-   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-CB2029?style=flat-square&logo=sonarlint&logoColor=white"></a>
-   <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?style=flat-square&logo=test-tube&logoColor=white"></a>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=flat-square&logo=github%20actions&logoColor=white"></a>
-   <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=pytest&logoColor=white"></a>
-</p>
+### 🧠 [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) - 103⭐
+PHP 机器学习库的中文学习示例，涵盖从数据预处理到模型训练、评估的完整机器学习流程。为 PHP 开发者提供了在 PHP 环境中应用机器学习的实践指南。
 
+### 📦 [PFinal Array](https://github.com/pfinalclub/pfinal-array) - 51⭐
+PHP 数组操作增强组件，提供丰富的数组处理功能，包括多维数组去重、树结构化、按权重随机选择等，显著提高开发效率。
 
-### 💻 Software and tools
+### 🖥️ [Wails PF](https://github.com/pfinal-nc/wails_pf) - 21⭐
+基于 Go Wails 框架开发的桌面时钟应用，展示了如何使用现代化技术构建美观实用的跨平台桌面软件。
 
-<p>
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-   <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white"></a>
-   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
-   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
-   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-</p>
+### 🔧 [PF-Shell](https://github.com/PFinal-tool/pf-shell) - 1⭐
+Linux 下连接远程服务器的工具，简化服务器管理流程，支持密码和私钥两种认证方式。
 
+## 📊 开源统计
 
-<a href="https://github.com/pfinal-nc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfinal-nc&hide=ipynb,html&layout=compact&show_icons=true&theme=dracula">
-</a>
+- **开源项目**：63 个
+- **累计 Star**：721⭐
+- **GitHub 关注者**：84 人
 
+## 🌐 相关链接
+
+- 🌐 个人网站：[https://friday-go.icu](https://friday-go.icu)
+- 🎮 游戏站点：[https://game.friday-go.icu/](https://game.friday-go.icu/)
+- 🔍 导航站点：[https://nav.friday-go.icu/](https://nav.friday-go.icu/)
+- 🐦 Twitter：[@NPfinal](https://x.com/NPfinal)
+
+## 📬 联系方式
+
+欢迎通过以下方式与我交流技术问题或合作机会：
+
+- GitHub Issues：在相关项目中提交 issue
+- Twitter：[@NPfinal](https://x.com/NPfinal)
+- 邮箱：请通过 Twitter 私信联系获取
+
+---
+
+*"代码改变世界，开源成就未来"*
+
+![Footer](header_1.png)
