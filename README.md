@@ -14,7 +14,7 @@
 - **数据科学**：在 PHP 环境中应用机器学习算法
 - **开发工具**：创建实用的开发者工具提升工作效率
 
-## 🔧 明星项目
+## 🚀 代表性项目
 
 ### 🧠 [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) - 103⭐
 PHP 机器学习库的中文学习示例，涵盖从数据预处理到模型训练、评估的完整机器学习流程。为 PHP 开发者提供了在 PHP 环境中应用机器学习的实践指南。
@@ -45,9 +45,9 @@ Linux 下连接远程服务器的工具，简化服务器管理流程，支持�
 
 欢迎通过以下方式与我交流技术问题或合作机会：
 
-- GitHub Issues：在相关项目中提交 issue
-- Twitter：[@NPfinal](https://x.com/NPfinal)
-- 邮箱：请通过 Twitter 私信联系获取
+- 📧 邮箱：[lampxiezi@163.com](mailto:lampxiezi@163.com)
+- 🐦 Twitter：[@NPfinal](https://x.com/NPfinal)
+- 💬 GitHub Issues：在相关项目中提交 issue
 
 ---
 
