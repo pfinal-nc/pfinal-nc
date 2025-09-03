@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
   <img src="header_1.png" alt="Header" width="100%">
-</div> -->
+</div>
 
 # Hi, I'm PFINAL Nan Cheng 👋
 
@@ -33,6 +33,18 @@ Senior software engineer with over 10 years of professional experience, focusing
 ### Data Science & Tools
 - **Machine Learning**: Applications of PHP-ML library
 - **Development Tools**: Practical developer tools and scripts
+
+## 🔥 Recent Technical Updates
+
+### Wails Desktop Application Development Series
+Deep dive into the core technologies of the Wails framework:
+- **WebKit and Lifecycle Deep Dive**: Understanding WebKit technology principles and application lifecycle management in Wails
+- **Environment Setup and Installation**: Complete guide to preparing environment for Wails development
+- **Creating Your First App**: Wails project creation process and best practices
+
+### Go Language Tool Development
+- **Golang System Library gopsutil**: Practice in system information retrieval and process monitoring
+- **Go Terminal URL Detection Tool**: Development techniques for terminal command-line tools
 
 ## 🚀 Featured Projects
 
