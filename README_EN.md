@@ -6,95 +6,81 @@
 
 > Admire the lofty mountains, follow the great examples; though we may not reach them, our hearts yearn for them.
 
-Senior software engineer with over 10 years of professional experience, focusing on backend development and system architecture design. Passionate about open-source technology sharing and developer tool creation.
+10+ years in backend development & system architecture. Focused on **PHP high-performance async programming**, **open-source tools**, and **cybersecurity**.
 
-<p align="center">
-  <a href="https://friday-go.icu"><img src="https://img.shields.io/badge/website-friday--go.icu-blue" alt="Website"></a>
-  <a href="https://x.com/NPfinal"><img src="https://img.shields.io/badge/twitter-@NPfinal-blue" alt="Twitter"></a>
-  <a href="mailto:lampxiezi@163.com"><img src="https://img.shields.io/badge/email-lampxiezi@163.com-red" alt="Email"></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-friday--go.icu-blue?style=flat-square)](https://friday-go.icu)
+[![Twitter](https://img.shields.io/badge/Twitter-@NPfinal-1DA1F2?style=flat-square)](https://x.com/NPfinal)
+[![Email](https://img.shields.io/badge/Email-lampxiezi@163.com-red?style=flat-square)](mailto:lampxiezi@163.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0005-1712-2543)
 
-## 🧠 Technical Stack
-
-### Backend Development
-- **PHP**: Laravel 8/9, ThinkPHP 6, Composer package development
-- **Python**: Django 3/4, Flask, FastAPI
-- **Go**: Go 1.18+, Web development, microservices, desktop applications (Wails v2)
-
-### Frontend Development
-- **JavaScript/TypeScript**: Vue.js 3, React 17/18, Node.js
-- **HTML/CSS**: Bootstrap 5, Tailwind CSS, Responsive design
-
-### Architecture Design
-- **Monolithic Applications**: Traditional MVC architecture, modular design
-- **Microservices**: Docker containerized deployment, RESTful API design
-- **Serverless**: AWS Lambda, Alibaba Cloud Function Compute
-
-### Data Science & Tools
-- **Machine Learning**: PHP-ML library applications, data preprocessing and model training
-- **Development Tools**: Shell script automation, CI/CD pipeline optimization
-
-## 🚀 Featured Projects
-
-### 🧠 [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) - 103⭐
-Chinese learning examples for the PHP-ML machine learning library, covering the complete machine learning workflow from data preprocessing to model training and evaluation. Implemented practical applications of algorithms including classification (SVM, KNN), regression (Linear Regression), and clustering (K-Means). Provides a practical guide for PHP developers to apply machine learning in PHP environments.
-
-### 📦 [PFinal Array](https://github.com/pfinalclub/pfinal-array) - 51⭐
-PHP array operation enhancement component, providing rich array processing functions including multi-dimensional array deduplication, tree structuring, and weighted random selection. Supports dot notation for accessing and setting array elements, and has been stably running in multiple production environments, significantly improving development efficiency.
-
-### 🖥️ [Wails PF](https://github.com/pfinal-nc/wails_pf) - 21⭐
-Cross-platform desktop clock application developed with Go Wails v2 framework, supporting Windows, macOS, and Linux. Uses a front-end and back-end separation architecture, with the front-end built with Vue.js for a modern interface and the back-end leveraging Go's high-performance characteristics for accurate timing functions.
-
-### 🔧 [PF-Shell](https://github.com/PFinal-tool/pf-shell) - 1⭐
-Tool for connecting to remote servers under Linux, supporting both SSH password authentication and private key authentication. Achieves automated login through expect scripts, simplifying multi-server management processes and improving operational efficiency by 60% in actual operations.
-
-## 🌐 Personal Open Source Websites
-
-### 🧭 [Navigation Site](https://nav.friday-go.icu)
-Static website built with Hugo, carefully curated developer resource navigation site, aggregating commonly used development tools, technical documentation, and learning resources. Features responsive design for multi-device access.
-
-### 💬 [Prompt Site](https://pnav.friday-go.icu)
-AI prompt collection and sharing platform built with Vue.js + Firebase, helping users better utilize ChatGPT, Midjourney, and other AI tools. Supports category management and keyword search.
-
-### 👤 [Personal Portfolio](https://member.friday-go.icu)
-Personal project showcase website built with React + Next.js, displaying project experiences and technical capabilities. Uses server-side rendering to optimize SEO and loading performance.
-
-### 🎮 [Mini Games Platform](http://game.friday-go.icu)
-Collection of casual games built with HTML5 and JavaScript, including several interesting puzzle games. Features modular design for easy expansion of new games.
-
-### 📝 [Personal Blog](https://friday-go.icu/zh/)
-Static technical blog built with Hugo, sharing development experiences, tutorials, and insights. Supports Markdown syntax with integrated code highlighting and mathematical formula rendering.
-
-### 📅 [Calendar Marketing Site](https://miao.friday-go.icu)
-Creative calendar marketing website combining traditional culture with modern design. Features responsive layout and animation effects to enhance user experience.
-
-## 🔥 Recent Technical Updates
-
-### Wails Desktop Application Development Series
-Deep dive into the core technologies of the Wails v2 framework:
-- **WebKit and Lifecycle Deep Dive**: Understanding WebKit technology principles and application lifecycle management in Wails
-- **Environment Setup and Installation**: Complete guide to preparing environment for Wails development, including Go 1.19+ and Node.js 16+ configuration
-- **Creating Your First App**: Wails project creation process and best practices, covering asset packaging and cross-platform compilation
-
-### Go Language Tool Development
-- **Golang System Library gopsutil**: Practice in system information retrieval and process monitoring, applied in server monitoring projects
-- **Go Terminal URL Detection Tool**: Development techniques for terminal command-line tools, using Cobra framework to build CLI applications
-
-## 📊 Open Source Statistics
-
-- **Open Source Projects**: 63
-- **Total Stars**: 721⭐
-- **GitHub Followers**: 84
-
-## 📬 Contact
-
-Feel free to reach out through the following channels for technical discussions or collaboration opportunities:
-
-- 🌐 Personal Website: [https://friday-go.icu](https://friday-go.icu)
-- 🐦 Twitter: [@NPfinal](https://x.com/NPfinal)
-- 📧 Email: [lampxiezi@163.com](mailto:lampxiezi@163.com)
-- 💬 GitHub Issues: Submit issues in relevant projects
+[![Followers](https://img.shields.io/github/followers/pfinal-nc?style=flat-square&color=blue)](https://github.com/pfinal-nc)
+[![Stars](https://img.shields.io/badge/Stars-760+-yellow?style=flat-square&logo=github)](https://github.com/pfinal-nc)
+[![Repos](https://img.shields.io/badge/Repos-106+-brightgreen?style=flat-square)](https://github.com/pfinal-nc)
 
 ---
 
-*"Code changes the world, open source achieves the future"*
+## Tech Stack
+
+**Backend**: PHP 8.1+ (Fiber/Laravel/ThinkPHP) · Python (Django/FastAPI) · Go · Rust  
+**Frontend**: Vue.js 3 · React · TypeScript · Node.js  
+**Architecture**: Workerman · Docker · Microservices · Serverless  
+**Emerging**: Async Runtime · MCP · AI Integration · Edge WAF
+
+---
+
+## Featured Projects
+
+| Project | Stars | Tech Highlights |
+|---------|-------|-----------------|
+| [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) | 104⭐ | PHP ML tutorials in Chinese, SVM/KNN/K-Means/Decision Tree algorithms |
+| [pfinal-asyncio](https://github.com/pfinalclub/pfinal-asyncio) | 16⭐ | **PHP async runtime**, Fiber coroutines + structured concurrency, 263 LOC core |
+| [pfinal-tiangang](https://github.com/pfinalclub/pfinal-tiangang) | 20⭐ | **Edge WAF/Reverse Proxy**, Workerman + async detection, offline mode support |
+| [pfinal-asyncio-gamekit](https://github.com/pfinalclub/pfinal-asyncio-gamekit) | 18⭐ | Async game framework, orchestrate game logic with async/await |
+| [pfinal-array](https://github.com/pfinalclub/pfinal-array) | 52⭐ | PHP array enhancement, dot notation, multi-dim dedup, tree structuring |
+| [coze-php](https://github.com/pfinalclub/coze-php) | 8⭐ | Coze AI PHP SDK |
+| [php-mcp](https://github.com/pfinalclub/php-mcp) | - | PHP MCP Server extension |
+| [phpx](https://github.com/pfinalclub/phpx) | - | Rust npx-like tool for PHP |
+| [Wails PF](https://github.com/pfinal-nc/wails_pf) | 22⭐ | Go Wails v2 cross-platform desktop app |
+
+---
+
+## PFinal Community
+
+> [github.com/pfinalclub](https://github.com/pfinalclub) · 53 projects · 11+ followers
+
+Open-source community focused on PHP ecosystem, providing complete toolchain from basic components to high-performance frameworks.
+
+**Core Components**: `pfinal-array` `pfinal-asyncio` `pfinal-tiangang` `pfinal-asyncio-gamekit` `coze-php`
+
+---
+
+## Open Source Ecosystem
+
+**Personal Sites**: [Navigation](https://nav.friday-go.icu) · [Prompts](https://pnav.friday-go.icu) · [Portfolio](https://member.friday-go.icu) · [Games](http://game.friday-go.icu) · [Blog](https://friday-go.icu/zh/)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfinal-nc&show_icons=true&theme=default&hide_border=true)
+
+| Metric | Count |
+|--------|-------|
+| Open Source Projects | 106+ (Personal 53 + Org 53) |
+| Total Stars | 760+ |
+| GitHub Followers | 104 |
+| Forked | 80+ times |
+
+---
+
+## Contact
+
+- Website: [friday-go.icu](https://friday-go.icu)
+- Twitter: [@NPfinal](https://x.com/NPfinal)
+- Email: [lampxiezi@163.com](mailto:lampxiezi@163.com)
+
+---
+
+*Code changes the world, open source achieves the future*
+
+![Profile Views](https://komarev.com/ghpvc/?username=pfinal-nc&color=blue&style=flat-square)

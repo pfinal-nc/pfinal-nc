@@ -4,97 +4,83 @@
 
 # 嗨，我是 PFINAL南丞 👋
 
-> 高山仰止,景行行制,虽不能至,心向往之
+> 高山仰止，景行行止，虽不能至，心向往之
 
-拥有超过 10 年专业经验的高级软件工程师，专注于后端开发和系统架构设计。热衷于开源技术分享和开发者工具的创造。
+10年+ 后端开发与系统架构经验，专注 **PHP 高性能异步编程**、**开源工具** 和 **网络安全**。
 
-<p align="center">
-  <a href="https://friday-go.icu"><img src="https://img.shields.io/badge/website-friday--go.icu-blue" alt="Website"></a>
-  <a href="https://x.com/NPfinal"><img src="https://img.shields.io/badge/twitter-@NPfinal-blue" alt="Twitter"></a>
-  <a href="mailto:lampxiezi@163.com"><img src="https://img.shields.io/badge/email-lampxiezi@163.com-red" alt="Email"></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-friday--go.icu-blue?style=flat-square)](https://friday-go.icu)
+[![Twitter](https://img.shields.io/badge/Twitter-@NPfinal-1DA1F2?style=flat-square)](https://x.com/NPfinal)
+[![Email](https://img.shields.io/badge/Email-lampxiezi@163.com-red?style=flat-square)](mailto:lampxiezi@163.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0005-1712-2543)
 
-## 🧠 技术栈
-
-### 后端开发
-- **PHP**: Laravel 8/9, ThinkPHP 6, Composer 包开发
-- **Python**: Django 3/4, Flask, FastAPI
-- **Go**: Go 1.18+, Web 开发、微服务、桌面应用 (Wails v2)
-
-### 前端开发
-- **JavaScript/TypeScript**: Vue.js 3, React 17/18, Node.js
-- **HTML/CSS**: Bootstrap 5, Tailwind CSS, 响应式设计
-
-### 架构设计
-- **单体应用**: 传统 MVC 架构，模块化设计
-- **微服务**: Docker 容器化部署，RESTful API 设计
-- **无服务器**: AWS Lambda, 阿里云函数计算
-
-### 数据科学与工具
-- **机器学习**: PHP-ML 库的应用，数据预处理和模型训练
-- **开发工具**: Shell 脚本自动化、CI/CD 流程优化
-
-## 🚀 代表性项目
-
-### 🧠 [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) - 103⭐
-PHP 机器学习库的中文学习示例，涵盖从数据预处理到模型训练、评估的完整机器学习流程。实现了包括分类（SVM、KNN）、回归（线性回归）、聚类（K-Means）等算法的实际应用。为 PHP 开发者提供了在 PHP 环境中应用机器学习的实践指南。
-
-### 📦 [PFinal Array](https://github.com/pfinalclub/pfinal-array) - 51⭐
-PHP 数组操作增强组件，提供丰富的数组处理功能，包括多维数组去重、树结构化、按权重随机选择等。支持点语法访问和设置数组元素值，已在多个生产环境中稳定运行，显著提高开发效率。
-
-### 🖥️ [Wails PF](https://github.com/pfinal-nc/wails_pf) - 21⭐
-基于 Go Wails v2 框架开发的跨平台桌面时钟应用，支持 Windows、macOS 和 Linux。采用前后端分离架构，前端使用 Vue.js 构建现代化界面，后端利用 Go 的高性能特性实现精准计时功能。
-
-### 🔧 [PF-Shell](https://github.com/PFinal-tool/pf-shell) - 1⭐
-Linux 下连接远程服务器的工具，支持 SSH 密码认证和私钥认证两种方式。通过 expect 脚本实现自动化登录，简化了多服务器管理流程，在实际运维工作中提高了 60% 的效率。
-
-## 🌐 个人开源网站
-
-### 🧭 [导航网站](https://nav.friday-go.icu)
-基于 Hugo 构建的静态网站，精心整理的开发者资源导航，汇集了常用的开发工具、技术文档和学习资源。采用响应式设计，支持多端访问。
-
-### 💬 [提示词网站](https://pnav.friday-go.icu)
-Vue.js + Firebase 构建的 AI 提示词收集与分享平台，帮助用户更好地使用 ChatGPT、Midjourney 等 AI 工具。支持分类管理和关键词搜索。
-
-### 👤 [个人作品集](https://member.friday-go.icu)
-React + Next.js 构建的个人作品展示网站，展示项目经历和技术能力。采用服务端渲染技术，优化 SEO 和加载性能。
-
-### 🎮 [小游戏平台](http://game.friday-go.icu)
-基于 HTML5 和 JavaScript 构建的休闲小游戏集合，包含多款有趣的益智游戏。采用模块化设计，易于扩展新游戏。
-
-### 📝 [个人博客](https://friday-go.icu/zh/)
-基于 Hugo 的静态技术博客，分享开发经验、技术教程和心得体会。支持 Markdown 语法，集成代码高亮和数学公式渲染。
-
-### 📅 [日历营销网站](https://miao.friday-go.icu)
-创意日历营销网站，结合传统文化与现代设计。采用响应式布局和动画效果，提升用户体验。
-
-## 🔥 最近技术动态
-
-### Wails 桌面应用开发系列
-深入探索了 Wails v2 框架的核心技术：
-- **WebKit 与生命周期深度解析**：理解 Wails 中的 WebKit 技术原理和应用生命周期管理机制
-- **环境搭建与安装**：为 Wails 开发准备环境的完整指南，包括 Go 1.19+ 和 Node.js 16+ 的配置
-- **创建第一个应用**：Wails 项目创建流程和最佳实践，涉及资产打包和跨平台编译
-
-### Go 语言工具开发
-- **Golang 系统库 gopsutil**：系统信息获取和进程监控的实践，应用于服务器监控项目
-- **Go 终端 URL 检测小工具**：终端命令行工具的开发技巧，使用 Cobra 框架构建 CLI 应用
-
-## 📊 开源统计
-
-- **开源项目**：63 个
-- **累计 Star**：721⭐
-- **GitHub 关注者**：84 人
-
-## 📬 联系方式
-
-欢迎通过以下方式与我交流技术问题或合作机会：
-
-- 🌐 个人网站：[https://friday-go.icu](https://friday-go.icu)
-- 🐦 Twitter：[@NPfinal](https://x.com/NPfinal)
-- 📧 邮箱：[lampxiezi@163.com](mailto:lampxiezi@163.com)
-- 💬 GitHub Issues：在相关项目中提交 issue
+[![Followers](https://img.shields.io/github/followers/pfinal-nc?style=flat-square&color=blue)](https://github.com/pfinal-nc)
+[![Stars](https://img.shields.io/badge/Stars-760+-yellow?style=flat-square&logo=github)](https://github.com/pfinal-nc)
+[![Repos](https://img.shields.io/badge/Repos-106+-brightgreen?style=flat-square)](https://github.com/pfinal-nc)
 
 ---
 
-*"代码改变世界，开源成就未来"*
+## 技术栈
+
+**后端**: PHP 8.1+ (Fiber/Laravel/ThinkPHP) · Python (Django/FastAPI) · Go · Rust  
+**前端**: Vue.js 3 · React · TypeScript · Node.js  
+**架构**: Workerman · Docker · Microservices · Serverless  
+**新兴**: Async Runtime · MCP · AI Integration · Edge WAF
+
+---
+
+## 重点项目
+
+| 项目 | Stars | 技术亮点 |
+|------|-------|----------|
+| [PHP-ML Study](https://github.com/pmlic/PHP-ML-study) | 104⭐ | PHP 机器学习库中文教程，SVM/KNN/K-Means/决策树等算法实现 |
+| [pfinal-asyncio](https://github.com/pfinalclub/pfinal-asyncio) | 16⭐ | **PHP 异步运行时**，Fiber 协程 + 结构化并发，263行核心代码 |
+| [pfinal-tiangang](https://github.com/pfinalclub/pfinal-tiangang) | 20⭐ | **边缘 WAF/反向代理**，Workerman + 异步检测架构，支持离线模式 |
+| [pfinal-asyncio-gamekit](https://github.com/pfinalclub/pfinal-asyncio-gamekit) | 18⭐ | 异步游戏框架，async/await 编排游戏逻辑 |
+| [pfinal-array](https://github.com/pfinalclub/pfinal-array) | 52⭐ | PHP 数组增强组件，点语法访问、多维去重、树结构化 |
+| [coze-php](https://github.com/pfinalclub/coze-php) | 8⭐ | Coze AI PHP SDK |
+| [php-mcp](https://github.com/pfinalclub/php-mcp) | - | PHP MCP Server 扩展包 |
+| [phpx](https://github.com/pfinalclub/phpx) | - | Rust 编写的 npx-like PHP 工具 |
+| [Wails PF](https://github.com/pfinal-nc/wails_pf) | 22⭐ | Go Wails v2 跨平台桌面应用 |
+
+---
+
+## PFinal 社区
+
+> [github.com/pfinalclub](https://github.com/pfinalclub) · 53 个项目 · 11+ 关注者
+
+专注 PHP 生态的开源社区，提供从基础组件到高性能框架的完整工具链。
+
+**核心组件**: `pfinal-array` `pfinal-asyncio` `pfinal-tiangang` `pfinal-asyncio-gamekit` `coze-php`
+
+---
+
+## 开源生态
+
+**个人网站**: [导航站](https://nav.friday-go.icu) · [提示词站](https://pnav.friday-go.icu) · [作品集](https://member.friday-go.icu) · [游戏平台](http://game.friday-go.icu) · [博客](https://friday-go.icu/zh/)
+
+---
+
+## GitHub 统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfinal-nc&show_icons=true&theme=default&hide_border=true)
+
+| 指标 | 数量 |
+|------|------|
+| 开源项目 | 106+ (个人 53 + 组织 53) |
+| 累计 Star | 760+ |
+| GitHub 关注者 | 104 |
+| 被 Fork | 80+ 次 |
+
+---
+
+## 联系方式
+
+- 网站: [friday-go.icu](https://friday-go.icu)
+- Twitter: [@NPfinal](https://x.com/NPfinal)
+- 邮箱: [lampxiezi@163.com](mailto:lampxiezi@163.com)
+
+---
+
+*代码改变世界，开源成就未来*
+
+![Profile Views](https://komarev.com/ghpvc/?username=pfinal-nc&color=blue&style=flat-square)
